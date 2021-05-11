@@ -90,7 +90,7 @@ Switch to your src sub-directory of the ROS Workspace to clone this repository
 ```
 Run the following commands to clone and build this project:
 ```
-git clone --recursive https://github.com/nalindas9/fetch-it
+git clone --recursive https://github.com/sukoonsarin/fetch-it
 cd ..
 catkin_make
 ```
